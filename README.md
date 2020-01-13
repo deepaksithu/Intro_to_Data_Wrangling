@@ -13,9 +13,9 @@ In these notes a dataset for job postings is extracted, cleaned, and then analyz
 
 ## Requirements
 This code depends on the following libraries:
-1.`pandas`
-2.`numpy`
-3.`matplotlib`
+1. `pandas`
+2. `numpy`
+3. `matplotlib`
 
 In addition to these, the Jupyter Notebook assumes that the data set, which was provided as a zip file, `armenian-online-job-postings.zip`, is in the project folder and, when extracted, provides a file, `online-job-postings.csv'
 
